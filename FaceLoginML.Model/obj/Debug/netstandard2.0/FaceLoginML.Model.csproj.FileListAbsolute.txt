@@ -1,0 +1,80 @@
+D:\NeuralNetworks\ПРОЕКТЫ\Версия 9\FaceLogin\FaceLoginML.Model\bin\Debug\netstandard2.0\MLModel.zip
+D:\NeuralNetworks\ПРОЕКТЫ\Версия 9\FaceLogin\FaceLoginML.Model\bin\Debug\netstandard2.0\FaceLoginML.Model.deps.json
+D:\NeuralNetworks\ПРОЕКТЫ\Версия 9\FaceLogin\FaceLoginML.Model\bin\Debug\netstandard2.0\FaceLoginML.Model.dll
+D:\NeuralNetworks\ПРОЕКТЫ\Версия 9\FaceLogin\FaceLoginML.Model\bin\Debug\netstandard2.0\FaceLoginML.Model.pdb
+D:\NeuralNetworks\ПРОЕКТЫ\Версия 9\FaceLogin\FaceLoginML.Model\obj\Debug\netstandard2.0\FaceLoginML.Model.csprojAssemblyReference.cache
+D:\NeuralNetworks\ПРОЕКТЫ\Версия 9\FaceLogin\FaceLoginML.Model\obj\Debug\netstandard2.0\FaceLoginML.Model.AssemblyInfoInputs.cache
+D:\NeuralNetworks\ПРОЕКТЫ\Версия 9\FaceLogin\FaceLoginML.Model\obj\Debug\netstandard2.0\FaceLoginML.Model.AssemblyInfo.cs
+D:\NeuralNetworks\ПРОЕКТЫ\Версия 9\FaceLogin\FaceLoginML.Model\obj\Debug\netstandard2.0\FaceLoginML.Model.csproj.CoreCompileInputs.cache
+D:\NeuralNetworks\ПРОЕКТЫ\Версия 9\FaceLogin\FaceLoginML.Model\obj\Debug\netstandard2.0\FaceLoginML.Model.dll
+D:\NeuralNetworks\ПРОЕКТЫ\Версия 9\FaceLogin\FaceLoginML.Model\obj\Debug\netstandard2.0\FaceLoginML.Model.pdb
+D:\NeuralNetworks\ПРОЕКТЫ\Версия 10\FaceLogin\FaceLoginML.Model\bin\Debug\netstandard2.0\MLModel.zip
+D:\NeuralNetworks\ПРОЕКТЫ\Версия 10\FaceLogin\FaceLoginML.Model\bin\Debug\netstandard2.0\FaceLoginML.Model.deps.json
+D:\NeuralNetworks\ПРОЕКТЫ\Версия 10\FaceLogin\FaceLoginML.Model\bin\Debug\netstandard2.0\FaceLoginML.Model.dll
+D:\NeuralNetworks\ПРОЕКТЫ\Версия 10\FaceLogin\FaceLoginML.Model\bin\Debug\netstandard2.0\FaceLoginML.Model.pdb
+D:\NeuralNetworks\ПРОЕКТЫ\Версия 10\FaceLogin\FaceLoginML.Model\obj\Debug\netstandard2.0\FaceLoginML.Model.AssemblyInfoInputs.cache
+D:\NeuralNetworks\ПРОЕКТЫ\Версия 10\FaceLogin\FaceLoginML.Model\obj\Debug\netstandard2.0\FaceLoginML.Model.AssemblyInfo.cs
+D:\NeuralNetworks\ПРОЕКТЫ\Версия 10\FaceLogin\FaceLoginML.Model\obj\Debug\netstandard2.0\FaceLoginML.Model.csproj.CoreCompileInputs.cache
+D:\NeuralNetworks\ПРОЕКТЫ\Версия 10\FaceLogin\FaceLoginML.Model\obj\Debug\netstandard2.0\FaceLoginML.Model.dll
+D:\NeuralNetworks\ПРОЕКТЫ\Версия 10\FaceLogin\FaceLoginML.Model\obj\Debug\netstandard2.0\FaceLoginML.Model.pdb
+D:\NeuralNetworks\ПРОЕКТЫ\Версия 10\FaceLogin\FaceLoginML.Model\obj\Debug\netstandard2.0\FaceLoginML.Model.csprojAssemblyReference.cache
+D:\NeuralNetworks\ПРОЕКТЫ\Версия 13\FaceLogin\FaceLoginML.Model\bin\Debug\netstandard2.0\MLModel.zip
+D:\NeuralNetworks\ПРОЕКТЫ\Версия 13\FaceLogin\FaceLoginML.Model\bin\Debug\netstandard2.0\FaceLoginML.Model.deps.json
+D:\NeuralNetworks\ПРОЕКТЫ\Версия 13\FaceLogin\FaceLoginML.Model\bin\Debug\netstandard2.0\FaceLoginML.Model.dll
+D:\NeuralNetworks\ПРОЕКТЫ\Версия 13\FaceLogin\FaceLoginML.Model\bin\Debug\netstandard2.0\FaceLoginML.Model.pdb
+D:\NeuralNetworks\ПРОЕКТЫ\Версия 13\FaceLogin\FaceLoginML.Model\obj\Debug\netstandard2.0\FaceLoginML.Model.csprojAssemblyReference.cache
+D:\NeuralNetworks\ПРОЕКТЫ\Версия 13\FaceLogin\FaceLoginML.Model\obj\Debug\netstandard2.0\FaceLoginML.Model.AssemblyInfoInputs.cache
+D:\NeuralNetworks\ПРОЕКТЫ\Версия 13\FaceLogin\FaceLoginML.Model\obj\Debug\netstandard2.0\FaceLoginML.Model.AssemblyInfo.cs
+D:\NeuralNetworks\ПРОЕКТЫ\Версия 13\FaceLogin\FaceLoginML.Model\obj\Debug\netstandard2.0\FaceLoginML.Model.csproj.CoreCompileInputs.cache
+D:\NeuralNetworks\ПРОЕКТЫ\Версия 13\FaceLogin\FaceLoginML.Model\obj\Debug\netstandard2.0\FaceLoginML.Model.dll
+D:\NeuralNetworks\ПРОЕКТЫ\Версия 13\FaceLogin\FaceLoginML.Model\obj\Debug\netstandard2.0\FaceLoginML.Model.pdb
+D:\NeuralNetworks\ПРОЕКТЫ\Версия 14\FaceLogin\FaceLoginML.Model\bin\Debug\netstandard2.0\MLModel.zip
+D:\NeuralNetworks\ПРОЕКТЫ\Версия 14\FaceLogin\FaceLoginML.Model\bin\Debug\netstandard2.0\FaceLoginML.Model.deps.json
+D:\NeuralNetworks\ПРОЕКТЫ\Версия 14\FaceLogin\FaceLoginML.Model\bin\Debug\netstandard2.0\FaceLoginML.Model.dll
+D:\NeuralNetworks\ПРОЕКТЫ\Версия 14\FaceLogin\FaceLoginML.Model\bin\Debug\netstandard2.0\FaceLoginML.Model.pdb
+D:\NeuralNetworks\ПРОЕКТЫ\Версия 14\FaceLogin\FaceLoginML.Model\obj\Debug\netstandard2.0\FaceLoginML.Model.csprojAssemblyReference.cache
+D:\NeuralNetworks\ПРОЕКТЫ\Версия 14\FaceLogin\FaceLoginML.Model\obj\Debug\netstandard2.0\FaceLoginML.Model.AssemblyInfoInputs.cache
+D:\NeuralNetworks\ПРОЕКТЫ\Версия 14\FaceLogin\FaceLoginML.Model\obj\Debug\netstandard2.0\FaceLoginML.Model.AssemblyInfo.cs
+D:\NeuralNetworks\ПРОЕКТЫ\Версия 14\FaceLogin\FaceLoginML.Model\obj\Debug\netstandard2.0\FaceLoginML.Model.csproj.CoreCompileInputs.cache
+D:\NeuralNetworks\ПРОЕКТЫ\Версия 14\FaceLogin\FaceLoginML.Model\obj\Debug\netstandard2.0\FaceLoginML.Model.dll
+D:\NeuralNetworks\ПРОЕКТЫ\Версия 14\FaceLogin\FaceLoginML.Model\obj\Debug\netstandard2.0\FaceLoginML.Model.pdb
+D:\NeuralNetworks\ПРОЕКТЫ\Версия 14 админ\FaceLogin\FaceLoginML.Model\bin\Debug\netstandard2.0\MLModel.zip
+D:\NeuralNetworks\ПРОЕКТЫ\Версия 14 админ\FaceLogin\FaceLoginML.Model\bin\Debug\netstandard2.0\FaceLoginML.Model.deps.json
+D:\NeuralNetworks\ПРОЕКТЫ\Версия 14 админ\FaceLogin\FaceLoginML.Model\bin\Debug\netstandard2.0\FaceLoginML.Model.dll
+D:\NeuralNetworks\ПРОЕКТЫ\Версия 14 админ\FaceLogin\FaceLoginML.Model\bin\Debug\netstandard2.0\FaceLoginML.Model.pdb
+D:\NeuralNetworks\ПРОЕКТЫ\Версия 14 админ\FaceLogin\FaceLoginML.Model\obj\Debug\netstandard2.0\FaceLoginML.Model.csprojAssemblyReference.cache
+D:\NeuralNetworks\ПРОЕКТЫ\Версия 14 админ\FaceLogin\FaceLoginML.Model\obj\Debug\netstandard2.0\FaceLoginML.Model.AssemblyInfoInputs.cache
+D:\NeuralNetworks\ПРОЕКТЫ\Версия 14 админ\FaceLogin\FaceLoginML.Model\obj\Debug\netstandard2.0\FaceLoginML.Model.AssemblyInfo.cs
+D:\NeuralNetworks\ПРОЕКТЫ\Версия 14 админ\FaceLogin\FaceLoginML.Model\obj\Debug\netstandard2.0\FaceLoginML.Model.csproj.CoreCompileInputs.cache
+D:\NeuralNetworks\ПРОЕКТЫ\Версия 14 админ\FaceLogin\FaceLoginML.Model\obj\Debug\netstandard2.0\FaceLoginML.Model.dll
+D:\NeuralNetworks\ПРОЕКТЫ\Версия 14 админ\FaceLogin\FaceLoginML.Model\obj\Debug\netstandard2.0\FaceLoginML.Model.pdb
+D:\NeuralNetworks\ПРОЕКТЫ\Версия 15 основная\FaceLogin\FaceLoginML.Model\bin\Debug\netstandard2.0\MLModel.zip
+D:\NeuralNetworks\ПРОЕКТЫ\Версия 15 основная\FaceLogin\FaceLoginML.Model\bin\Debug\netstandard2.0\FaceLoginML.Model.deps.json
+D:\NeuralNetworks\ПРОЕКТЫ\Версия 15 основная\FaceLogin\FaceLoginML.Model\bin\Debug\netstandard2.0\FaceLoginML.Model.dll
+D:\NeuralNetworks\ПРОЕКТЫ\Версия 15 основная\FaceLogin\FaceLoginML.Model\bin\Debug\netstandard2.0\FaceLoginML.Model.pdb
+D:\NeuralNetworks\ПРОЕКТЫ\Версия 15 основная\FaceLogin\FaceLoginML.Model\obj\Debug\netstandard2.0\FaceLoginML.Model.csprojAssemblyReference.cache
+D:\NeuralNetworks\ПРОЕКТЫ\Версия 15 основная\FaceLogin\FaceLoginML.Model\obj\Debug\netstandard2.0\FaceLoginML.Model.AssemblyInfoInputs.cache
+D:\NeuralNetworks\ПРОЕКТЫ\Версия 15 основная\FaceLogin\FaceLoginML.Model\obj\Debug\netstandard2.0\FaceLoginML.Model.AssemblyInfo.cs
+D:\NeuralNetworks\ПРОЕКТЫ\Версия 15 основная\FaceLogin\FaceLoginML.Model\obj\Debug\netstandard2.0\FaceLoginML.Model.csproj.CoreCompileInputs.cache
+D:\NeuralNetworks\ПРОЕКТЫ\Версия 15 основная\FaceLogin\FaceLoginML.Model\obj\Debug\netstandard2.0\FaceLoginML.Model.dll
+D:\NeuralNetworks\ПРОЕКТЫ\Версия 15 основная\FaceLogin\FaceLoginML.Model\obj\Debug\netstandard2.0\FaceLoginML.Model.pdb
+D:\NeuralNetworks\ПРОЕКТЫ\Версия 16 основная\FaceLogin\FaceLoginML.Model\bin\Debug\netstandard2.0\MLModel.zip
+D:\NeuralNetworks\ПРОЕКТЫ\Версия 16 основная\FaceLogin\FaceLoginML.Model\bin\Debug\netstandard2.0\FaceLoginML.Model.deps.json
+D:\NeuralNetworks\ПРОЕКТЫ\Версия 16 основная\FaceLogin\FaceLoginML.Model\bin\Debug\netstandard2.0\FaceLoginML.Model.dll
+D:\NeuralNetworks\ПРОЕКТЫ\Версия 16 основная\FaceLogin\FaceLoginML.Model\bin\Debug\netstandard2.0\FaceLoginML.Model.pdb
+D:\NeuralNetworks\ПРОЕКТЫ\Версия 16 основная\FaceLogin\FaceLoginML.Model\obj\Debug\netstandard2.0\FaceLoginML.Model.csprojAssemblyReference.cache
+D:\NeuralNetworks\ПРОЕКТЫ\Версия 16 основная\FaceLogin\FaceLoginML.Model\obj\Debug\netstandard2.0\FaceLoginML.Model.AssemblyInfoInputs.cache
+D:\NeuralNetworks\ПРОЕКТЫ\Версия 16 основная\FaceLogin\FaceLoginML.Model\obj\Debug\netstandard2.0\FaceLoginML.Model.AssemblyInfo.cs
+D:\NeuralNetworks\ПРОЕКТЫ\Версия 16 основная\FaceLogin\FaceLoginML.Model\obj\Debug\netstandard2.0\FaceLoginML.Model.csproj.CoreCompileInputs.cache
+D:\NeuralNetworks\ПРОЕКТЫ\Версия 16 основная\FaceLogin\FaceLoginML.Model\obj\Debug\netstandard2.0\FaceLoginML.Model.dll
+D:\NeuralNetworks\ПРОЕКТЫ\Версия 16 основная\FaceLogin\FaceLoginML.Model\obj\Debug\netstandard2.0\FaceLoginML.Model.pdb
+D:\NeuralNetworks\ПРОЕКТЫ\Версия 17 основная\FaceLogin\FaceLoginML.Model\bin\Debug\netstandard2.0\MLModel.zip
+D:\NeuralNetworks\ПРОЕКТЫ\Версия 17 основная\FaceLogin\FaceLoginML.Model\bin\Debug\netstandard2.0\FaceLoginML.Model.deps.json
+D:\NeuralNetworks\ПРОЕКТЫ\Версия 17 основная\FaceLogin\FaceLoginML.Model\bin\Debug\netstandard2.0\FaceLoginML.Model.dll
+D:\NeuralNetworks\ПРОЕКТЫ\Версия 17 основная\FaceLogin\FaceLoginML.Model\bin\Debug\netstandard2.0\FaceLoginML.Model.pdb
+D:\NeuralNetworks\ПРОЕКТЫ\Версия 17 основная\FaceLogin\FaceLoginML.Model\obj\Debug\netstandard2.0\FaceLoginML.Model.csprojAssemblyReference.cache
+D:\NeuralNetworks\ПРОЕКТЫ\Версия 17 основная\FaceLogin\FaceLoginML.Model\obj\Debug\netstandard2.0\FaceLoginML.Model.AssemblyInfoInputs.cache
+D:\NeuralNetworks\ПРОЕКТЫ\Версия 17 основная\FaceLogin\FaceLoginML.Model\obj\Debug\netstandard2.0\FaceLoginML.Model.AssemblyInfo.cs
+D:\NeuralNetworks\ПРОЕКТЫ\Версия 17 основная\FaceLogin\FaceLoginML.Model\obj\Debug\netstandard2.0\FaceLoginML.Model.csproj.CoreCompileInputs.cache
+D:\NeuralNetworks\ПРОЕКТЫ\Версия 17 основная\FaceLogin\FaceLoginML.Model\obj\Debug\netstandard2.0\FaceLoginML.Model.dll
+D:\NeuralNetworks\ПРОЕКТЫ\Версия 17 основная\FaceLogin\FaceLoginML.Model\obj\Debug\netstandard2.0\FaceLoginML.Model.pdb
