@@ -1,5 +1,7 @@
 # FaceLoginPC
  Biometric authentication by the user's face using a single camera (on a PC or laptop).
+ 
+ ***This software is a prototype and can be implemented in various systems: ACS, smartphones, PCs, etc.
 
 The work of the program is divided into four main stages.
 1) Face detection, capture, and matching. The Hog method (histogram method) is used to detect faces on the video stream, capture faces, and match faces from the database of faces.
