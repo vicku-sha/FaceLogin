@@ -12,6 +12,8 @@ The work of the program is divided into four main stages.
 
 4) Data collection and processing by the resulting neural network. Collecting all the coefficients in a data.csv file, using the standard Microsoft algorithm-FastTreeOva and training it using the Visual Studio 2019 development environment (Community version), processing the image on the input stream from the webcam and output the result (whether it is a person or a photo).
 
+The comments and interface elements are written in Russian.
+
 ***Pay attention to the licenses!!!
 
 Library for identifying and marking faces-the Hog method (you can use the neural network method-cnn) in C#: https://github.com/takuya-takeuchi/FaceRecognitionDotNet
